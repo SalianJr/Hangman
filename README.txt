@@ -1,0 +1,3 @@
+Hello this is my first Python game, also OCW's 6.001 assigment.
+Also my first git repo...
+Hope its good.
